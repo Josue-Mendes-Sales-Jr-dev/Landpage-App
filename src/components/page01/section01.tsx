@@ -14,8 +14,8 @@ export const Section01=()=>{
             <div className="absolute z-[10] opacity-70 bg-black w-screen h-[100%]">
                        
             </div>
-             <div className=" absolute z-[10] w-3/5">
-                <div className="text-white" >
+             <div className=" absolute z-[10] w-3/5 sm:mr-0  mr-[4.5rem]">
+                <div className="text-white sm:w-[100%] " >
                     <h1 className="text-[83px] ml-[-7.5px] my-[-25px]">EARN</h1>
                     <h2 className="text-[50px] relative">INFINITY
                     <span className='flex absolute bg-orange-400 content w-[9px] h-[9px] left-[186px] top-[49px]'></span>

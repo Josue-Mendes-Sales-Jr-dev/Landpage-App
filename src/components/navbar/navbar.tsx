@@ -7,7 +7,7 @@ export const Navbar=()=> {
     return(
         <>
          <div className="flex items-center  bg-black text-white pl-8 h-[50px]">
-            <nav className="flex w-1/2">
+            <nav className="flex sm:w-1/2 w-full">
             <Link className="text-xl" href='/'>
                 <Image src={ImgBig} alt='big' className=" w-[52px] "/>
             </Link>
